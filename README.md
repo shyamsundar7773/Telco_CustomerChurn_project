@@ -48,6 +48,7 @@ This project predicts customer churn for a telecom company using machine learnin
 6. **Streamlit App**
    - Interactive prediction using input features.
    - Shows churn probability and simple business insight.
+   - Link: ("https://telcocustomerchurnproject.streamlit.app/")
 
 ---
 
