@@ -1,5 +1,6 @@
 # Telco_CustomerChurn_project
 End-to-End Customer Churn Prediction Project: Data Cleaning, EDA, Machine Learning Models, Streamlit App, and Insights
+Streamlit App Link: ("https://telcocustomerchurnproject.streamlit.app/")
 
 ## 🔹 Overview
 This project predicts customer churn for a telecom company using machine learning. It includes:
